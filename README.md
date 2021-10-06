@@ -1,0 +1,2 @@
+# MintZ
+e-commerce project
